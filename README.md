@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on:
   * Opensource weather application implementing ReactJS and Openweathermap's API with optional text message updates
   * A "drag and drop" Sentiment Analysis Crowd Sourcing Web App
-  * Assorted Video Games with my cronies [shinysocks](https://github.com/shinysocks/) and [Masbender](https://github.com/masbender/)
+  * Assorted Video Games with my fellow cronies [shinysocks](https://github.com/shinysocks/) and [Masbender](https://github.com/masbender/)
   * Brownbook Documentation and Vision Code for the 2024 FRC Season
 - 🌱 I’m currently learning:
   * HTML, CSS, JS
