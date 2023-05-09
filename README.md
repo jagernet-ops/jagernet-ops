@@ -16,8 +16,9 @@
   * A "drag and drop" Sentiment Analysis Crowd Sourcing Web App
   * Assorted Video Games with my fellow cronies [shinysocks](https://github.com/shinysocks/) and [Masbender](https://github.com/masbender/)
   * Brownbook Documentation and Vision Code for the 2024 FRC Season
+  * VSCode extention to expose local applications from the editor.
 - 🌱 I’m currently learning:
-  * HTML, CSS, JS
+  * HTML, CSS, JS & TypeScript
   * Java/C++
   * ReactJS, VueJS, and REST/GraphQL API Structures
 
