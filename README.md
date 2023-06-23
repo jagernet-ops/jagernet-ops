@@ -5,7 +5,7 @@
 * Junior attending Ronald Reagan High School 🏫
 * One of the lead programmers of First Robotics Team [1675](https://github.com/frc1675/) 🤖
 * Participant of the [Marquette AMC 2023 Programming Competition](https://codeabac.us/blue/standings) 🏅
-   * 8th Place out of 71+ Teams - Team Name: Reagan03  
+   * 8th Place out of 79+ Teams - Team Name: Reagan03  
 * Soon to be President of the [RRHS Coding Club](https://github.com/RRHS-Coding-Club/) 🗳️
 * [Community Outreach](https://frc1675.com/for-students/) and [Give Back](https://www.hungertaskforce.org/)! ✊
 
